@@ -8,10 +8,6 @@ a:hover {
   color: #000;
 }
 
-.banner {
-  max-height: 500px;
-}
-
 .banner-content {
   background-color: #495562;
   top: 12.5em;
@@ -31,6 +27,14 @@ img {
 
   .banner-content {
     top: 15.65em;
+  }
+
+}
+
+@media only screen and (min-width: 60em) {
+
+  .banner {
+    max-height: 500px;
   }
 
 }
