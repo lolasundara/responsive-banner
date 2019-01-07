@@ -3,6 +3,10 @@ html {
   font-family: Georgia, serif;
 }
 
+.banner {
+  max-height: 500px;
+}
+
 .banner-content {
   background-color: #495562;
   top: 12.5em;
