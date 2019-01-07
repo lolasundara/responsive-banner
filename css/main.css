@@ -1,0 +1,15 @@
+html {
+  color: #fff;
+  font-family: Georgia, serif;
+}
+
+.banner-content {
+  background-color: #495562;
+  top: 13em;
+}
+
+.btn {
+  border-radius: 4px;
+  border-color: #97a49b;
+  color: #fff;
+}
